@@ -150,6 +150,7 @@ export default function CreateOrphanage() {
                   )
                 })}
                 <label htmlFor='image[]' className="new-image">
+                 
                   <FiPlus size={24} color="#15b6d6" />
                 </label>
               </div>
