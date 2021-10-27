@@ -39,8 +39,8 @@ Projeto desenvolvido durante a semana Next Level Week - NLW oferecida pela  [Roc
   - Localização;
   - Horário das visitas.
 - [x] Adicionar fotos no cadastro do orfanato.
-- [x] Exebir orfanatos no mapa.
-- [ ] Exebir informações do orfanato.
+- [x] Exibir orfanatos no mapa.
+- [ ] Exibir informações do orfanato.
 ---
 
 ## Layout
@@ -53,7 +53,7 @@ Web: <a href="https://www.figma.com/file/XYb2tha1gU5M8vTwTUmjNx/Happy-Web-(Copy)
 <br/>
 <h1>Versão Mobile</h1>
 <h1 align="center">
-  <img alt="proff" width="600px" height="300px"   title="proff" src="./assets/preview.png" />
+  <img alt="Happy" width="600px" height="300px"   title="Happy" src="./assets/preview.png" />
 </h1>
 
 <h1>Versão web</h1>
