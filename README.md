@@ -28,7 +28,7 @@
 
 <p align="left">O sistema Happay na versão web e mobile permite que as pessoas possam localizar orfanatos próximos ou em outros estados, e levar mais sorrisos para as crianças.
 
-Projeto desenvolvido durante a semana Next Level Week - NLW oferecida pela  [Rocketseat](https://blog.rocketseat.com.br).. O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
+Projeto desenvolvido durante a semana Next Level Week - NLW oferecida pela  [Rocketseat](https://blog.rocketseat.com.br). O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
 </p>
 
 <br/>
@@ -46,9 +46,9 @@ Projeto desenvolvido durante a semana Next Level Week - NLW oferecida pela  [Roc
 ## Layout
 Você pode acessar os Layout pelo Figma: 
 
-Mobile: <a href="https://www.figma.com/file/ECLQA7493CjVJMENsVvsih/Happy-Mobile-(Copy)?node-id=0%3A1">desse link</a>.
+Mobile: <a href="https://www.figma.com/file/ECLQA7493CjVJMENsVvsih/Happy-Mobile-(Copy)?node-id=0%3A1">neste link</a>.
 
-Web: <a href="https://www.figma.com/file/XYb2tha1gU5M8vTwTUmjNx/Happy-Web-(Copy)?node-id=0%3A1">desse link</a>.
+Web: <a href="https://www.figma.com/file/XYb2tha1gU5M8vTwTUmjNx/Happy-Web-(Copy)?node-id=0%3A1">neste link</a>.
 
 <br/>
 <h1>Versão Mobile</h1>
@@ -69,7 +69,7 @@ Este projeto é divido em três partes:
 2. Frontend (pasta web)
 3. Mobile (pasta mobile)
 
-anto o Frontend quanto o Mobile precisam que o Backend esteja sendo executado para funcionar.
+Tanto o Frontend quanto o Mobile precisam que o Backend esteja sendo executado para funcionar.
 
 ### Pré-requisitos
 
@@ -100,7 +100,7 @@ $ npm install ou yarn install
 # Execute a aplicação
 $ npm start ou  yarn start 
 
-# O servidor inciará na porta:3333 - acesse http://localhost:3333 
+# O servidor iniciará na porta:3333 - acesse http://localhost:3333 
 
 ```
 <!-- <p align="center">
@@ -224,7 +224,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## Licença
 
-Este projeto esta sobe a licença [MIT](./LICENSE).
+Este projeto está sob a licença [MIT](./LICENSE).
 
 Feito com ❤️ por Anderson Pablo 👋🏽 [Entre em contato!](https://www.linkedin.com/in/anderson-pablo-js/)
 
