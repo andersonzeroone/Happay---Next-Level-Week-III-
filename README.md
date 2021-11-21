@@ -74,7 +74,7 @@ Tanto o Frontend quanto o Mobile precisam que o Backend esteja sendo executado p
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com) e um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+[Git](https://git-scm.com) é um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 #### 🎲Clonando o projeto
 
